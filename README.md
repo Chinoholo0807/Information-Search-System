@@ -1,2 +1,2 @@
 # Information-Search-System
-信息检索系统
+一个简易的信息检索系统
